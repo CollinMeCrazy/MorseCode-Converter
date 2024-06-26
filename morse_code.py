@@ -1,10 +1,9 @@
-# Name: Collins Ramsey
+# Author: Collins Ramsey
 # morse_code.py
 #
 # Purpose: Encodes a message into Morse Code
 #
-# Certification of Authenticity:
-# I certify that this assignment is entirely my own work.
+# circa Fall 2020
 from graphics import *
 
 
